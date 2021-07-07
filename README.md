@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Exploring S.O.L.I.D Design Principles in Node.js</strong></h1>
 <h4>👤 Author: Leandro M. F. Machado</h4>
 <img align="center" src="./images/solid-modified.jpeg" alt="SOLID cover image" width="100%"/>
-<p align="center">Source: Photo by <a href="images/solid-modified.jpeg">Christopher Robin Ebbinghaus</a> from unsplash (modified)</p>
+<h6 align="center">Source: Photo by <a href="images/solid-modified.jpeg">Christopher Robin Ebbinghaus</a> from unsplash (modified)</h6>
 
 <h2>🎯 <strong>Objective</strong></h2>
 <p>This repository intends to explore the <strong>S.O.L.I.D</strong> principles applied into a basic Node.js REST API with Typescript.</p>
