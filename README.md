@@ -10,11 +10,11 @@
 <h2>🔍 <strong>S.O.L.I.D</strong></h2>
 <p>The acronym <strong>S.O.L.I.D</strong> stands for:</p>
 <ul>
-  <li>S - </li>
-  <li>O - </li>
-  <li>L - </li>
-  <li>I - </li>
-  <li>D - </li>
+  <li><strong><u>S</u></strong>ingle Responsability Principle</li>
+  <li><strong><u>O</u></strong>pen-Closed Principle</li>
+  <li><strong><u>L</u></strong>iskov Substitution Principle</li>
+  <li><strong><u>I</u></strong>nterface Segregation Principle</li>
+  <li><strong><u>D</u></strong>ependency Inversion Principle</li>
 </ul>
 
 <br/>
