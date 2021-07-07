@@ -38,5 +38,5 @@
 <br/>
 
 <h2>🔐 <strong>License</strong></h2>
-Copyright © 2021 [Leandro M. F. Machado](https://github.com/leandrofahur).<br />
-This project is [MIT](LICENSE) licensed.
+<p>Copyright © 2021 [Leandro M. F. Machado](https://github.com/leandrofahur).</p>
+<p>This project is <a href="./LICENSE">MIT</a> licensed.</p>
