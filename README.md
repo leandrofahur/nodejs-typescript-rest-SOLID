@@ -1,6 +1,7 @@
 <h1 align="center"><strong>Exploring S.O.L.I.D Design Principles in Node.js</strong></h1>
-<h4>👤 Author: Leandro M. F. Machado</h4>
-
+<a href="https://www.linkedin.com/in/leandro-miranda-fahur-machado/">
+    <img src="http://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-miranda-fahur-machado/" alt="LinkedIn Badge" />
+</a>
 <br/>
 
 <img align="center" src="./images/solid-modified.jpeg" alt="SOLID cover image" width="100%"/>
