@@ -1,5 +1,8 @@
 <h1 align="center"><strong>Exploring S.O.L.I.D Design Principles in Node.js</strong></h1>
 <h4>👤 Author: Leandro M. F. Machado</h4>
+
+<br/>
+
 <img align="center" src="./images/solid-modified.jpeg" alt="SOLID cover image" width="100%"/>
 <h6 align="center">Source: Photo by <a href="images/solid-modified.jpeg">Christopher Robin Ebbinghaus</a> from unsplash (modified)</h6>
 
