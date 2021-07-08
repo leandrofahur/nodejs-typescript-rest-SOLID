@@ -12,10 +12,10 @@
 </p>
 
 <br/>
-<br/>
 
 <img align="center" src="./images/solid-modified.jpeg" alt="SOLID cover image" width="100%"/>
 <h6 align="center">Source: Photo by <a href="images/solid-modified.jpeg">Christopher Robin Ebbinghaus</a> from unsplash (modified)</h6>
+<br/>
 
 <h2>🎯 <strong>Objective</strong></h2>
 <p>This repository intends to explore the <strong>S.O.L.I.D</strong> principles applied into a basic Node.js REST API with Typescript.</p>
