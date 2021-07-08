@@ -14,7 +14,7 @@
 <br/>
 
 <img align="center" src="./images/solid-modified.jpeg" alt="SOLID cover image" width="100%"/>
-<h6 align="center">Source: Photo by <a href="images/solid-modified.jpeg">Christopher Robin Ebbinghaus</a> from unsplash (modified)</h6>
+<h6 align="center">Source: Photo by <a href="https://unsplash.com/photos/pgSkeh0yl8o">Christopher Robin Ebbinghaus</a> from unsplash (modified)</h6>
 <br/>
 
 <h2>🎯 <strong>Objective</strong></h2>
