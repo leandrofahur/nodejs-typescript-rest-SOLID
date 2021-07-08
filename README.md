@@ -1,7 +1,17 @@
 <h1 align="center"><strong>Exploring S.O.L.I.D Design Principles in Node.js</strong></h1>
+<p align="center">
 <a href="https://www.linkedin.com/in/leandro-miranda-fahur-machado/">
     <img src="http://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-miranda-fahur-machado/" alt="LinkedIn Badge" />
 </a>
+<a href="mailto:fahurleandro@gmail.com">
+    <img src="http://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fahurleandro@gmail.com" alt="Gmail Badge" />
+</a>
+<a href="https://medium.com/@leandrofahur_">
+    <img src="https://img.shields.io/badge/-Medium-333333?style=for-the-badge&logo=Medium&logoColor=white=https://medium.com/@leandrofahur_" alt="Medium Badge" />
+</a>
+</p>
+
+<br/>
 <br/>
 
 <img align="center" src="./images/solid-modified.jpeg" alt="SOLID cover image" width="100%"/>
