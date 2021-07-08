@@ -35,6 +35,7 @@
 
 <h2>📝 <strong>References</strong></h2>
 <ol>
+  <p>S.O.L.I.D related:</p>
   <li>
     <a href="https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design">SOLID: The First 5 Principles of Object Oriented Design
 </a>
